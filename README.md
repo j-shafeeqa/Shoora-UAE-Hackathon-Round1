@@ -49,12 +49,10 @@ Shoora tackles these problems head-on with a suite of groundbreaking features:
 
 > Shoora transforming legal research into a seamless, intelligent experience. It’s not just a digital library—it's a game-changer for legal professionals and trainees alike.
 
-Dear Ahmed Alhashmi,
-
-Thank you for your invaluable insights and for sharing the Ministry’s vision for a Digital Office. Our pitch directly addresses your key challenges:
-- **Website Limitations & Video Hosting:** By replacing heavy video reliance with interactive digital simulations.
-- **Content Development:** Aggregating and smart-searching existing legal resources to avoid redundant content creation.
-- **AI Integration & Financial Constraints:** Implementing a phased AI strategy paired with sustainable revenue models—including subscription-based access, freemium options for trainees, institutional licensing, and strategic partnerships.
+### Problem Validation
+Through our discussions with Ahmed Alhashmi, a Fatwa and Legislation Researcher at the Legislation Department, we identified key challenges faced by legal professionals:
+![image](https://github.com/user-attachments/assets/4a4a1752-8210-4ebc-b76d-0df0e13fe6b7)
+Shoora is built to tackle these challenges head-on, providing a smarter, more efficient way to navigate legal research.
 
 ## Team Innovisionaries
 
