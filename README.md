@@ -1,7 +1,7 @@
 # ⚖️Shoora: AI-Powered Digital Legal Library
 ![home pg ](https://github.com/user-attachments/assets/ac75539c-028e-4b21-a146-721fbd23a587)
 
-Shoora is an innovative, AI-driven legal research and training platform designed exclusively for the UAQ Edition of the UAE Hackathon. By unifying scattered legal resources into one intelligent, accessible hub, Shoora transforms how legal professionals, students, and government entities search, learn, and interact with legal materials..
+Shoora is an innovative, AI-driven legal research and training platform designed exclusively for the UAQ Edition of the UAE Hackathon. By unifying scattered legal resources into one intelligent, accessible hub, Shoora transforms how legal professionals, students, and government entities search, learn, and interact with legal materials.
 
 ## The Challenge
 
