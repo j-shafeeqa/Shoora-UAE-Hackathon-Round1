@@ -8,7 +8,7 @@ Shoora is an innovative, AI-driven legal research and training platform designed
 Today’s legal landscape is fragmented. Valuable legal resources are:
 - **Scattered Across Multiple Platforms:** Legal materials from the Judicial Training Institute, UAE legislation, and case law are dispersed, making it hard to pinpoint what you need.
 - **Difficult to Search:** Traditional searches yield overwhelming results—imagine sifting through 1.2 million entries just to find one case study.
-- **Not User-Friendly:** Without a centralized system, legal professionals and trainees struggle to access and utilize crucial information.
+- **Not User-Friendly:** Without a centralized system, legal professionals and trainees struggle to access and utilize crucial legal information.
 
 ## Our Solution
 
