@@ -69,10 +69,6 @@ Shoora is built to tackle these challenges head-on, providing a smarter, more ef
 - **Revenue Streams:** Designed to be cost-effective, our multi-tiered model supports subscriptions, freemium access, institutional licensing, and strategic partnerships.
 - **Future Collaborations:** Aligned with the Ministry of Justice’s vision for a unified digital legal library, paving the way for a modernized judicial training ecosystem in line with UAE 2031.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 Join us in redefining legal research and education. With Shoora, the future of legal accessibility and training is here—intelligent, interactive, and inclusive.
